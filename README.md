@@ -2,7 +2,7 @@
 - 👀 I’m interested in Applied AI/ML Scientist
 - 🌱 I’m currently learning AI
 -  Expercience on Advanaced deep learning model development for plant leaf disease identification NITW
--  also Deep learning - based super resolution for enhanced grape plant leaf disease detection
+-  also Deep learning - based super resolution for enhanced grape plant leaf disease detection-NIT TRICHY
 - 💞️ I’m looking to collaborate on Research projects
 - 📫 How to reach me venkatasivach15@gmail.com
 
